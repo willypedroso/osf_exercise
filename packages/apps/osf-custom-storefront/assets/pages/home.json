@@ -25,13 +25,6 @@
     },
     {
       "components": [
-        "image-banner-2"
-      ],
-      "width": 12,
-      "type": "main"
-    },
-    {
-      "components": [
         "image-spotlight-1"
       ],
       "width": 4,
