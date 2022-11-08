@@ -1,3 +1,6 @@
+import getWeather from './fetchers/get-weather';
+export const fetchers = [getWeather];
+
 import {StoreContext} from '@oracle-cx-commerce/react-ui/contexts';
 import {getWeatherQuery} from '../../selectors';
 import {connect} from '@oracle-cx-commerce/react-components/provider';
