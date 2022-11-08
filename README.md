@@ -1,7 +1,7 @@
 # OSF - Exercise
 ## Oracle CX Commerce
 
-In this exercise I was able to practice de following tasks:
+In this exercise I was able to practice the following tasks:
 
 - Create a local core reference store workspace
 - Implement a custom widget (a Weather Widget in this case)
