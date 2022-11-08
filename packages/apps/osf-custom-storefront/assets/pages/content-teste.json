@@ -1,0 +1,45 @@
+{
+  "layout": [
+    {
+      "components": [
+        "header-desktop"
+      ],
+      "width": 12,
+      "type": "header"
+    },
+    {
+      "components": [
+        "ContentItem (content teste)"
+      ],
+      "width": 12,
+      "type": "main"
+    },
+    {
+      "components": [
+        "footer"
+      ],
+      "width": 12,
+      "type": "footer"
+    }
+  ],
+  "settings": {
+    "pageDisplayName": {
+      "en": {
+        "pageDisplayName": "content teste"
+      }
+    },
+    "sites": [
+      "asbx47c1dev-store.occa.ocs.oraclecloud.com"
+    ],
+    "contentTypes": "Teste-Content"
+  },
+  "defaultPage": false,
+  "address": "cmsContent",
+  "title": "content teste",
+  "shortName": "cmsContent",
+  "pageTypeDisplayName": {
+    "en": {
+      "pageTypeDisplayName": "cmsContent"
+    }
+  }
+}

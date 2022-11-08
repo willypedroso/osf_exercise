@@ -1,0 +1,45 @@
+{
+  "layout": [
+    {
+      "components": [
+        "header-desktop"
+      ],
+      "width": 12,
+      "type": "header"
+    },
+    {
+      "components": [
+        "ContentItem (content blog)"
+      ],
+      "width": 12,
+      "type": "main"
+    },
+    {
+      "components": [
+        "footer"
+      ],
+      "width": 12,
+      "type": "footer"
+    }
+  ],
+  "settings": {
+    "pageDisplayName": {
+      "en": {
+        "pageDisplayName": "content blog"
+      }
+    },
+    "sites": [
+      "asbx47c1dev-store.occa.ocs.oraclecloud.com"
+    ],
+    "contentTypes": "Editorial-Content-OCC"
+  },
+  "defaultPage": false,
+  "address": "cmsContent",
+  "title": "content blog",
+  "shortName": "cmsContent",
+  "pageTypeDisplayName": {
+    "en": {
+      "pageTypeDisplayName": "cmsContent"
+    }
+  }
+}

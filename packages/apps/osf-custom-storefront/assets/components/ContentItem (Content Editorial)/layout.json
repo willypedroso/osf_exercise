@@ -1,0 +1,25 @@
+{
+  "regions": [
+    {
+      "components": [
+        "content image editorial"
+      ],
+      "width": 12,
+      "type": "main"
+    },
+    {
+      "components": [
+        "text editorial"
+      ],
+      "width": 12,
+      "type": "main"
+    },
+    {
+      "components": [
+        "text main"
+      ],
+      "width": 12,
+      "type": "main"
+    }
+  ]
+}

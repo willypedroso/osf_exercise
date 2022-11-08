@@ -1,0 +1,25 @@
+{
+  "layout": [
+    {
+      "components": [
+        "checkout-single-shipping-details"
+      ],
+      "width": 9
+    },
+    {
+      "components": [
+        "cart-order-summary",
+        "request-quote-button"
+      ],
+      "width": 3
+    },
+    {
+      "components": [
+        "checkout-continue-to-payment-button"
+      ],
+      "width": 12
+    }
+  ],
+  "component": "CheckoutShippingContainer",
+  "title": "CheckoutShipping"
+}

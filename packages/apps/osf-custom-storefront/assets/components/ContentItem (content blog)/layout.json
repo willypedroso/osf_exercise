@@ -1,0 +1,25 @@
+{
+  "regions": [
+    {
+      "components": [
+        "content img blog"
+      ],
+      "width": 12,
+      "type": "main"
+    },
+    {
+      "components": [
+        "text blog"
+      ],
+      "width": 12,
+      "type": "main"
+    },
+    {
+      "components": [
+        "content blog img 2"
+      ],
+      "width": 12,
+      "type": "main"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "layout": [
+    {
+      "components": [
+        "header-desktop"
+      ],
+      "width": 12,
+      "type": "header"
+    },
+    {
+      "components": [
+        "ContentItem (Content Editorial)"
+      ],
+      "width": 12,
+      "type": "main"
+    },
+    {
+      "components": [
+        "footer"
+      ],
+      "width": 12,
+      "type": "footer"
+    }
+  ],
+  "settings": {
+    "pageDisplayName": {
+      "en": {
+        "pageDisplayName": "Content Editorial"
+      }
+    },
+    "sites": [
+      "asbx47c1dev-store.occa.ocs.oraclecloud.com"
+    ],
+    "contentTypes": "Editorial-Content"
+  },
+  "defaultPage": false,
+  "address": "cmsContent",
+  "title": "Content Editorial",
+  "shortName": "cmsContent",
+  "pageTypeDisplayName": {
+    "en": {
+      "pageTypeDisplayName": "cmsContent"
+    }
+  }
+}
