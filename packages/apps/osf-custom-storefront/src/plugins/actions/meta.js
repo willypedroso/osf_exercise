@@ -3,3 +3,4 @@
  */
 
 export * from '@oracle-cx-commerce/actions/meta';
+export {getWeatherAction} from './get-weather-action/meta';

@@ -3,3 +3,4 @@
  */
 
 export * from '@oracle-cx-commerce/actions';
+export const getWeatherAction = () => import('./get-weather-action');

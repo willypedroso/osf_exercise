@@ -4,3 +4,4 @@
 
 export * from '@oracle-cx-commerce/endpoints';
 export * from '@oracle-cx-commerce/oce-endpoints';
+export const getWeather = () => import('./getWeather');

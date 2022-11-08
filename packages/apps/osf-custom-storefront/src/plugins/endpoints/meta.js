@@ -4,3 +4,4 @@
 
 export * from '@oracle-cx-commerce/endpoints/meta';
 export * from '@oracle-cx-commerce/oce-endpoints/meta';
+export {default as getWeather} from './getWeather/meta';
