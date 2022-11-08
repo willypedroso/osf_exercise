@@ -4,10 +4,6 @@ import {TabContainer} from '@oracle-cx-commerce/react-components/tabs';
 import React, { useContext, useState, useEffect, useRef } from 'react';
 import Styled from '@oracle-cx-commerce/react-components/styled';
 
-/*
- * Uncomment the following line to get the parameter substitution
- * function, e.g. t(someParameterizedResourceString, "someValue").
- */
 import {t} from '@oracle-cx-commerce/utils/generic';
 
 import css from './styles.css';
@@ -45,7 +41,7 @@ const weatherWidget = props => {
                         <input ref={textCityFetch} className="weather__inputCity" type="text" placeholder="Cidade" /><br/>
                         <input ref={textCountryFetch} className="weather__inputCountry" type="text" placeholder="País" maxLength={2} /><br/>
                         <button className="weather__button" onClick={getWeatherFetch}>
-                          get Weather
+                          Get Weather
                         </button>
                       </div>
                     </td>

@@ -1,21 +1,42 @@
 .weatherWidget {
-  border: 1px solid #ccc;
-  padding: 10px;
-}
-
-.weatherWidget__Label {
-  color: #729fff;
-}
-.weatherWidget__ExtraInfo {
-  background-color: red;
-  color: yellow;
-  margin-left: 5px;
-}
-/**
- *  CSS uses the Block Element Modifier naming convention, an example :
-.weatherWidget__ElementName {
-  display: inline-block;
-  font-size: large;
-}
- * For more information - http://getbem.com/
- */
+   border: 1px solid #ccc;
+   padding: 10px;
+  }
+  
+  .weatherWidget__Label {
+   color: #729fff;
+  }
+  .weatherWidget__ExtraInfo {
+   background-color: red;
+   color: yellow;
+   margin-left: 5px;
+  }
+  .weather {
+   border: 1px solid #ccc;
+   padding: 10px;
+  }
+  .weather__container{
+   width:600px;
+   padding-left:20px
+  }
+  .weather__inputCity {
+     width: 120px;
+     margin-bottom:10px
+    }
+    .weather__inputCountry {
+     width: 100px;
+     margin-bottom:10px
+    }
+    .weather__td {
+     padding:20px;
+    }
+    .weather__button {
+     width: 150px;
+     margin-bottom:10px
+    }
+    
+    .weather__label,.weather__TabHeader,.TabContainer__TabHeader {
+     color: navy;
+     font-weight: bold;
+    }
+    
